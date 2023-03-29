@@ -11,8 +11,8 @@
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **niloy000123@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xVO4pOOm4TiaZoP_1Dx_kMDEg_n01gSZ/view?usp=share_link](https://drive.google.com/file/d/1xVO4pOOm4TiaZoP_1Dx_kMDEg_n01gSZ/view?usp=share_link)
+<!-- 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xVO4pOOm4TiaZoP_1Dx_kMDEg_n01gSZ/view?usp=share_link](https://drive.google.com/file/d/1xVO4pOOm4TiaZoP_1Dx_kMDEg_n01gSZ/view?usp=share_link) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
